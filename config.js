@@ -1,5 +1,5 @@
 // Lấy ở Supabase > Project Settings > API. Dùng anon key (công khai được), KHÔNG dùng service_role.
 window.CFG = {
-  SUPABASE_URL: "https://YOUR-PROJECT.supabase.co",
-  SUPABASE_ANON_KEY: "YOUR-ANON-KEY"
+  SUPABASE_URL: "https://doqwgxtgejgogihngprd.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_-P10jNLzUN-xzpVERAAuuA_80vE0sPj"
 };
